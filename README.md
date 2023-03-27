@@ -1,2 +1,2 @@
 # terraform-programs
-Here we going to learn basics terraform programs
+Here we are going to learn basics terraform programs
