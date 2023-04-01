@@ -3,5 +3,5 @@
 
 
 output yourname {
-  value="hello ${var.username}"//give output, just give command in specific directory terraformm plan
+  value="hello ${var.username},your age is ${var.age}"//give output, just give command in specific directory terraformm plan
 }

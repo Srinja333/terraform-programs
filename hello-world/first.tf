@@ -7,5 +7,5 @@
 
 
 output hello1{
-    value = "hello world guys"
+    value = "hello world"
 }
